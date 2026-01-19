@@ -1,0 +1,1 @@
+# OCR-Handwriting-to-Text-Question-Answer-Segmentation-without-LLM
